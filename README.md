@@ -1,2 +1,2 @@
-# hyperblog
-Un blog increible para el curso de Git y Github de Platzi
+# blogpost
+Este es un blogpost para probar Git y Github
